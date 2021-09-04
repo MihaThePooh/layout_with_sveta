@@ -7,11 +7,12 @@ type SkillPropsType = {
 }
 
 function Skill(props: SkillPropsType) {
+    const text = " asdj ghdjb alijkf asdj ghdjbalijkf asdjghdjb alijkfasdjg hdjbali jkfasdjgh djbalijk fasdjghdjbalij kfasdjghdjbal ijkfasd jghdjbalijkfasdjgh djbalijkf"
     return (
         <div className={s.skill}>
             <div className={s.icon}></div>
             <h3>{props.title}</h3>
-            <span className={s.description}>{props.description}</span>
+            <span className={s.description}>{props.description + text}</span>
         </div>
     );
 }

@@ -6,9 +6,12 @@ function Skills() {
     return (
         <div className={s.skills}>
             <h2>My skills</h2>
-            <div className={s.skills}>
+            <div className={s.skillsItems}>
                 <Skill title={"HTML + CSS"} description={"Short description"}/>
                 <Skill title={"JS"} description={"Short description"}/>
+                <Skill title={"React"} description={"Short description"}/>
+                <Skill title={"React"} description={"Short description"}/>
+                <Skill title={"React"} description={"Short description"}/>
                 <Skill title={"React"} description={"Short description"}/>
             </div>
         </div>

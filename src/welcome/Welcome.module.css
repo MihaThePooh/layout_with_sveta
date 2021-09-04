@@ -1,8 +1,10 @@
 .welcome {
+    height: 100vh;
     grid-area: welcome;
     background-color: goldenrod;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .welcomeText {
@@ -10,14 +12,14 @@
     background-color: #969cb9;
 }
 
-.welcomeText span, h1, p {
-    position: relative;
-    top: 18%;
+.welcomeText {
+    margin: 20px;
 }
 
 .welcomePhoto {
     width: 300px;
     height: 350px;
     background-color: #8fb990;
+    margin: 20px;
 }
 

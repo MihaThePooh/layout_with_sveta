@@ -1,8 +1,9 @@
 .footer {
     grid-area: footer;
-    min-height: 40px;
+    min-height: 90px;
     background-color: slategrey;
-    display: grid;
+    display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }

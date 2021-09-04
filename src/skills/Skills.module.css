@@ -1,8 +1,16 @@
 .skills {
     grid-area: skills;
     background-color: #a1b932;
-    width: 100%;
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.skillsItems {
+    display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
 }
