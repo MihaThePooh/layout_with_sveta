@@ -5,12 +5,12 @@ function Contact() {
     return (
         <div className={s.contact}>
             <h3>Contact</h3>
-                <form className={s.form}>
-                    <input type="text" placeholder="name"/>
-                    <input type="text" placeholder="email"/>
-                    <input type="textarea" placeholder="message"/>
-                    <button>Send</button>
-                </form>
+            <form className={s.form}>
+                <input type="text" placeholder="name"/>
+                <input type="text" placeholder="email"/>
+                <input type="textarea" placeholder="message"/>
+                <button>Send</button>
+            </form>
         </div>
     );
 }
