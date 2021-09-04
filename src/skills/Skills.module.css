@@ -1,6 +1,5 @@
 .skills {
     grid-area: skills;
-    height: 35vh;
     background-color: #a1b932;
     width: 100%;
     display: flex;

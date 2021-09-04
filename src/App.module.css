@@ -14,3 +14,9 @@
     margin: 0 auto;
     background-color: #b94e82;
 }
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}

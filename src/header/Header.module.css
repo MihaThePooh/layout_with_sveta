@@ -1,6 +1,6 @@
 .header {
     grid-area: header;
-    height: 80px;
+    height: 60px;
     background-color: darkred;
     display: grid;
     align-items: center;
@@ -8,11 +8,7 @@
 }
 
 .nav {
-    padding: 30px;
+    padding: 20px;
 }
 
-a {
-    color: white;
-    text-decoration: none;
-    padding: 30px;
-}
+

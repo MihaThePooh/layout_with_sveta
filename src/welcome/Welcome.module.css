@@ -1,6 +1,5 @@
 .welcome {
     grid-area: welcome;
-    height: 40vh;
     background-color: goldenrod;
     display: flex;
     justify-content: space-evenly;
@@ -18,7 +17,7 @@
 
 .welcomePhoto {
     width: 300px;
-    height: 352px;
+    height: 350px;
     background-color: #8fb990;
 }
 

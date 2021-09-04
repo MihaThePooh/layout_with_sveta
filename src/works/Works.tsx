@@ -6,7 +6,7 @@ function Works() {
     return (
         <div className={s.works}>
             <h2>My works</h2>
-            <div className={s.works}>
+            <div className={s.worksItem}>
                 <Work title={"Social Network"} description={"Short description"}/>
                 <Work title={"Todolist"} description={"Short description"}/>
             </div>

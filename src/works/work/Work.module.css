@@ -1,22 +1,22 @@
 .work {
-    width: 450px;
-    height: 350px;
     background-color: #b92150;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     text-align: left;
+    margin: 10px;
+    width: 300px;
 }
 
 .workPreview {
     height: 200px;
-    width: 450px;
+    width: 100%;
     background-color: aquamarine;
 }
 
 .workPreviewButton {
     height: 45px;
-    width: 180px;
+    width: 50%;
     background-color: slategrey;
     margin: 80px auto;
     text-align: center;
