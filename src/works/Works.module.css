@@ -1,9 +1,10 @@
-.skills {
-    grid-area: skills;
-    height: 35vh;
-    background-color: #a1b932;
+.works {
+    grid-area: works;
+    height: 55vh;
+    background-color: #2b7db9;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+

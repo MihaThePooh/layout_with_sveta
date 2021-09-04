@@ -1,15 +1,23 @@
 import React from 'react';
-import './App.css';
+import s from './App.module.css';
 import Header from "./header/Header";
-import Main from "./main/Main";
+import Welcome from "./welcome/Welcome";
 import Skills from "./skills/Skills";
+import Works from "./works/Works";
+import HireMe from "./hireMe/HireMe";
+import Contact from "./contact/Contact";
+import Footer from "./footer/Footer";
 
 function App() {
   return (
-    <div>
-      <Header/>
-      <Main/>
-      <Skills/>
+    <div className={s.mainGrid}>
+        <Header/>
+        <Welcome/>
+        <Skills/>
+        <Works/>
+        <HireMe/>
+        <Contact/>
+        <Footer/>
     </div>
   );
 }

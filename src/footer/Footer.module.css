@@ -1,0 +1,8 @@
+.footer {
+    grid-area: footer;
+    height: 15vh;
+    background-color: slategrey;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}

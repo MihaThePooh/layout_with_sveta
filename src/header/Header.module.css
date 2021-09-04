@@ -1,7 +1,18 @@
 .header {
+    grid-area: header;
     height: 80px;
-    background-color: dimgray;
-    display: flex;
-    justify-content: flex-end;
+    background-color: darkred;
+    display: grid;
     align-items: center;
+    justify-content: end;
+}
+
+.nav {
+    padding: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 30px;
 }

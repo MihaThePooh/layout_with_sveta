@@ -1,0 +1,21 @@
+.hireMe {
+    grid-area: hireMe;
+    height: 28vh;
+    background-color: #b94e82;
+}
+
+.hireMe h2 {
+    margin: 0;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.hireMe div {
+    height: 45px;
+    width: 180px;
+    background-color: slategrey;
+    margin: 80px auto;
+    text-align: center;
+    line-height: 282%;
+}
+
