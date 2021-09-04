@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/layout_with_sveta/static/css/main.d2c76491.chunk.css",
+    "main.js": "/layout_with_sveta/static/js/main.828d53e8.chunk.js",
+    "main.js.map": "/layout_with_sveta/static/js/main.828d53e8.chunk.js.map",
+    "runtime-main.js": "/layout_with_sveta/static/js/runtime-main.f7cb09f4.js",
+    "runtime-main.js.map": "/layout_with_sveta/static/js/runtime-main.f7cb09f4.js.map",
+    "static/js/2.de0dcae1.chunk.js": "/layout_with_sveta/static/js/2.de0dcae1.chunk.js",
+    "static/js/2.de0dcae1.chunk.js.map": "/layout_with_sveta/static/js/2.de0dcae1.chunk.js.map",
+    "static/js/3.ca6d63c7.chunk.js": "/layout_with_sveta/static/js/3.ca6d63c7.chunk.js",
+    "static/js/3.ca6d63c7.chunk.js.map": "/layout_with_sveta/static/js/3.ca6d63c7.chunk.js.map",
+    "index.html": "/layout_with_sveta/index.html",
+    "static/css/main.d2c76491.chunk.css.map": "/layout_with_sveta/static/css/main.d2c76491.chunk.css.map",
+    "static/js/2.de0dcae1.chunk.js.LICENSE.txt": "/layout_with_sveta/static/js/2.de0dcae1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7cb09f4.js",
+    "static/js/2.de0dcae1.chunk.js",
+    "static/css/main.d2c76491.chunk.css",
+    "static/js/main.828d53e8.chunk.js"
+  ]
+}
